@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: Dhivyapriya. R                     </h3>
-<h3>Register Number: 212222230032                </h3>
+<h3>Name: Dhivyapriya. R </h3>
+<h3>Register Number: 212222230032 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -22,6 +22,7 @@ This is a python program that uses propositional logic sentences to check which 
 It is assumed that there will always be a safe path that the agent can take to exit the Wumpus world. The logical agent can take four actions: Up, Down, Left and Right. These actions help the agent move from one room to an adjacent room. The agent can perceive two things: Breeze and Stench.
 </p>
 <h1>Program:</h1>
+
 ```
 
 wumpus=[["Save","Breeze","PIT","Breeze"],
@@ -134,10 +135,10 @@ while(player):
         score-=1000
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
+
 ```
 
 <hr>
-
 <h1>Sample Input and Output:</h1>
 <hr>
 
@@ -146,7 +147,13 @@ while(player):
 
 <h1> Output:</h1>
 
-![image](https://github.com/user-attachments/assets/0833adab-22e1-494a-9196-642ce94c5e7f)
+![Screenshot 2024-11-09 200955](https://github.com/user-attachments/assets/b574e579-7bfe-47d2-9fd7-090479da36cb)
+
+
+
+
+
+
 
 
 <h1> Result:</h1>
